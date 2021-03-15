@@ -13,6 +13,7 @@ npm start
 
 ## CLIENT
 
+```bash
 npx create-react-app client
 
 npm install @apollo/client graphql
@@ -21,7 +22,7 @@ npm install semantic-ui-react semantic-ui-css
 npm install moment
 npm install jwt-decode
 npm install apollo-link-context
-
+```
 
 [Apollo Client](https://www.apollographql.com/docs/react/get-started/)
 
